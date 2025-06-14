@@ -1,0 +1,11 @@
+@media(max-width:425px){
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .veiculos{
+        width: 100%;
+        max-width: 300px;
+    }
+}
