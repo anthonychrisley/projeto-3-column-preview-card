@@ -1,6 +1,7 @@
 @media(max-width:425px){
     .container{
         display: flex;
+        height: auto;
         flex-direction: column;
     }
 
